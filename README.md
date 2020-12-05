@@ -1,7 +1,7 @@
 # NAOChallenge
 **Participants:** 
-[Zarmina Ursino](https://github.com/Zarmina97)
-[Sandeep Kumar Kushwaha](https://github.com/xandie985)
+[Zarmina Ursino](https://github.com/Zarmina97) , 
+[Sandeep Kumar Kushwaha](https://github.com/xandie985) , 
 [Samaral Tahirli](https://github.com/samraltahirli)
 
 **OBTAIN THE CHOREGRAPHE FILE HERE:** https://drive.google.com/drive/folders/1pIRpZiDuBrvC3VIPP3ZKrkusU_yLcD5j?usp=sharing 
